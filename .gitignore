@@ -10,7 +10,7 @@
 /build
 
 # enviroment
-/env/env.js
+/src/env/env.js
 
 # misc
 .DS_Store
